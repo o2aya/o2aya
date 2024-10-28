@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I'm a web developer with a passion to learn new things to enhance and upscale my skills of constructing websites that meet and match user expectations, by ensuring they look good, run smoothly and offer easy access points with no loading issues between pages or error messages. I like running, camping, swimming, watching documentaries and listening to podcasts too.
+I'm a web developer with a passion to learn new things to enhance and upscale my skills of constructing websites that meet and match user expectations, by ensuring they look good, run smoothly and offer easy access points with no loading issues between pages or error messages. I like running, camping, swimming, surfskating, watching documentaries and listening to podcasts too.
 
 * 🌍  I'm based in Agadir, Morocco
 * 🧠  I'm working on a surf school website project
